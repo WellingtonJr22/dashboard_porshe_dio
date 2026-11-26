@@ -2,6 +2,8 @@
 
 Dashboard HTML interativo para analisar 100 vendas de veículos Porsche. O painel responde a quatro perguntas de negócio sobre modelos, geografia, pagamento e operação de entregas.
 
+![Prévia do dashboard Porsche](dashboard-preview(2).png)
+
 ## O que o dashboard mostra
 
 - Desempenho comercial por modelo, com volume de vendas, receita e ticket médio.
